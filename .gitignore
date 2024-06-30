@@ -1,0 +1,5 @@
+.DS_Store
+secret.txt
+
+# * means all file with log extension will be ignored
+*.log 
